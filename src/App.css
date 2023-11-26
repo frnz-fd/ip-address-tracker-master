@@ -1,0 +1,10 @@
+#root {
+  width: 100vw;
+  height:100vh;
+}
+
+.background-top{
+  background-image: url("./assets/images/pattern-bg-desktop.png");
+  background-size: cover;
+  background-repeat: space;
+}
